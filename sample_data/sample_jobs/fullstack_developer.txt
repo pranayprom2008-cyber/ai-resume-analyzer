@@ -1,0 +1,16 @@
+Job Title: Junior Full-Stack Developer
+Department: Engineering
+
+Responsibilities:
+- Build responsive, modern web user interfaces using React, TypeScript, and Tailwind CSS.
+- Develop robust, scalable REST APIs using Python (FastAPI/Django) or Node.js (Express).
+- Design and optimize relational database schemas using PostgreSQL or MySQL with ORM tools (Prisma / SQLAlchemy).
+- Integrate user authentication, OAuth, and role-based access control.
+- Write unit tests and maintain CI/CD pipelines via GitHub Actions.
+- Collaborate using Agile and Scrum methodologies.
+
+Qualifications:
+- Proficiency in JavaScript, TypeScript, HTML5, and CSS3.
+- Hands-on project experience with React and state management (Redux / Zustand).
+- Working knowledge of SQL, PostgreSQL, Docker, and Git.
+- Strong problem-solving and algorithmic thinking.

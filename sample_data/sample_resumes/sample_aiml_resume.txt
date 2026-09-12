@@ -1,0 +1,33 @@
+M PRANAY
+pranayprom2008@gmail.com | +91 98765 43210 | Bengaluru, India
+GitHub: https://github.com/pranayprom2008-cyber | LinkedIn: https://linkedin.com/in/pranay-ai
+
+EDUCATION
+Bachelor of Technology in Artificial Intelligence and Machine Learning (2023 - 2027)
+GPA: 8.8 / 10.0
+Relevant Coursework: Data Structures & Algorithms, Operating Systems, Machine Learning, Deep Learning, DBMS, Computer Networks
+
+TECHNICAL SKILLS
+- Programming Languages: Python, C, C++, Java, JavaScript, TypeScript, SQL
+- Machine Learning & AI: PyTorch, Scikit-Learn, OpenCV, Pandas, NumPy, SciPy, Matplotlib
+- Web & Frameworks: FastAPI, React, Next.js, HTML5, CSS3, Tailwind CSS, Node.js
+- Databases & Cloud: PostgreSQL, SQLite, Supabase, Prisma, Docker, Git, GitHub
+
+PROJECTS
+1. Chicken Farm Pro - Enterprise Poultry Management Platform
+- Architected a full-stack Next.js and Prisma system with Supabase backend and Google OAuth 2.0 authentication.
+- Built ChickAI assistant using Google Gemini API to analyze flock mortality patterns, reducing diagnostic delay by 45%.
+- Implemented real-time financial tracking and automated PDF report generation for 500+ daily operational records.
+
+2. Real-Time Vision & Object Detection Pipeline
+- Engineered a high-throughput video processing pipeline using OpenCV and deep learning models.
+- Achieved consistent 50+ FPS webcam inference with low-latency bounding box tracking and confidence scoring.
+- Benchmarked frame throughput and optimized memory buffers, reducing processing latency by 30%.
+
+3. Hand Gesture Air-Keyboard & Virtual Controller
+- Developed a contactless computer vision interface utilizing MediaPipe hand tracking and PyAutoGUI.
+- Built dual-hand spatial gesture recognition for virtual typing and mouse cursor navigation without physical hardware.
+
+ACHIEVEMENTS & CERTIFICATIONS
+- Active open-source contributor with 10+ software projects across GitHub.
+- Finalist in College Technical Hackathon for autonomous computer vision prototypes.

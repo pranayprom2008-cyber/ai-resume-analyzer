@@ -1,0 +1,10 @@
+Job Title: Data Science Trainee
+Department: Analytics & Business Intelligence
+
+Key Skills Required:
+- Proficiency in Python, SQL, and exploratory data analysis (EDA).
+- In-depth knowledge of statistics, probability, regression, and classification algorithms.
+- Experience with Scikit-Learn, Pandas, NumPy, Seaborn, and Matplotlib.
+- Experience creating dashboards in Tableau or Power BI.
+- Ability to engineer features, handle missing data, and evaluate models using Precision, Recall, F1-Score, and ROC-AUC.
+- Strong communication skills to present data insights to technical and non-technical stakeholders.

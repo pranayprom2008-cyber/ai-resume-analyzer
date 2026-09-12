@@ -1,0 +1,16 @@
+Job Title: AI/ML Engineering Intern
+Department: Machine Learning & Applied AI
+Location: Bengaluru / Remote
+
+About the Role:
+We are seeking an enthusiastic AI/ML Engineering Intern to help design, train, and deploy machine learning models. You will collaborate with senior engineers to build intelligent pipelines, optimize models for inference, and integrate algorithms into production APIs.
+
+Requirements:
+- Strong programming proficiency in Python and solid understanding of Object-Oriented Programming (OOP).
+- Hands-on experience with Machine Learning and Deep Learning frameworks: PyTorch, TensorFlow, or Scikit-Learn.
+- Knowledge of Computer Vision (OpenCV) or Natural Language Processing (NLP).
+- Familiarity with data analysis libraries: Pandas, NumPy, and Matplotlib.
+- Experience with building or consuming REST APIs using FastAPI or Flask.
+- Foundational grasp of Data Structures, Algorithms, and System Design concepts.
+- Understanding of Git/GitHub version control, Docker containerization, and Linux environments.
+- Exposure to Large Language Models (LLMs) and Vector Databases (e.g. ChromaDB) is a plus.
