@@ -6,6 +6,8 @@
 [![Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpranayprom2008-cyber%2Fai-resume-analyzer)
+
 An intelligent, privacy-first resume parsing and Applicant Tracking System (ATS) evaluation engine. Built with **FastAPI**, **Scikit-Learn TF-IDF**, regex heuristics, and a glassmorphism web dashboard. Designed to evaluate candidate resumes against target job descriptions, calculate multi-dimensional compatibility scores, detect skill gaps, and provide actionable optimization checklists.
 
 ---
